@@ -1,5 +1,5 @@
 # arduino-RC-tank
-fully 3d printed RC tank controlled using arduino joystick
+fully 3d printed RC tank controlled wirelessly using arduino joystick
 
 
 
