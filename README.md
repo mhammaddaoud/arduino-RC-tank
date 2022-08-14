@@ -20,3 +20,7 @@ the joystick consists of:
   * arduino pro-mini
   * HC-12 wireless module
   * 2 x 18650 lithium batteries
+  
+  
+  ## DEMO VIDEO ##
+  LINK: https://www.instagram.com/p/CG0EMJlAKfe/?utm_source=ig_web_copy_link
