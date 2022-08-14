@@ -1,2 +1,2 @@
 ## TANK CODE ##  
-Code for receiving commands from the joystick and executing them
+Receive motor values from the joystick and executing them
