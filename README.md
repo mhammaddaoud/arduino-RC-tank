@@ -13,14 +13,14 @@ the tank consists of:
  * 3 x 18650 lithium batteries.  
  
  ## WIRING tank
-| Arduino  | HC-12 |
+| Arduino Nano  | HC-12 |
 | ------------- | ------------- |
 | Pin 10  | Tx  |
 | Pin 11  | Rx  |
 | Pin 12  | SET  |  
   
   
-| Arduino  | Motor Drive |
+| Arduino Nano  | Motor Drive |
 | ------------- | ------------- |
 | Pin 9  | IN 1  |
 | Pin 6  | IN 2  |
@@ -35,6 +35,16 @@ the joystick consists of:
   * arduino pro-mini
   * HC-12 wireless module
   * 2 x 18650 lithium batteries
+  
+## WIRING joystick
+| Arduino Pro mini  | HC-12 |
+| ------------- | ------------- |  
+Same as tank.  
+
+| Arduino Pro mini  | joystick |
+| ------------- | ------------- |
+| Pin A0  | Vertical  |
+| Pin A1  | Horizontal  |
   
   
   ## DEMO VIDEO ##
